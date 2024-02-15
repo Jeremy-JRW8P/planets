@@ -1,4 +1,8 @@
 Cold and dry, but everything is my favourite colour.
 The two moons may be a problem for Wolfman.
 But the Mummy will appreciate the lack of humidity.
+<<<<<<< HEAD
 Chris for you to see !
+=======
+hello
+>>>>>>> 8a73e03887598edbca05a29348f461c07a08608c
